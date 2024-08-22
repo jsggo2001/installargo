@@ -4,3 +4,9 @@ server:
   service:
     type: NodePort
     nodePortHttps: 30002
+
+global:
+  hostAliases:
+  - ip: 20.200.245.247
+    hostnames:
+    - github.com
