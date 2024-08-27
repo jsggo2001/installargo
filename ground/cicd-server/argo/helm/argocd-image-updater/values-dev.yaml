@@ -11,7 +11,7 @@ hostAliases:
   - ip: 20.200.245.247
     hostnames:
       - github.com
-  - ip: 54.236.113.205
+  - ip: 34.226.69.105
     hostnames:
       - registry-1.docker.io
 
