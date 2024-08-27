@@ -14,4 +14,7 @@ hostAliases:
   - ip: 34.226.69.105
     hostnames:
       - registry-1.docker.io
+  - ip: 34.226.69.105
+    hostnames:
+      - auth.docker.io
 
